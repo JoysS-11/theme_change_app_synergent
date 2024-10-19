@@ -72,7 +72,7 @@ class AndroidHomeScreen extends StatelessWidget {
                           Navigator.pushNamed(context, SettingScreen.routeName);
                         },
                         child: Text(
-                          "Go to Theme Setting...",
+                          "Go to Theme Setting..",
                           style: TextStyle(fontSize: size.height * 0.014),
                         ),
                       )
